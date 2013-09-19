@@ -1,0 +1,116 @@
+2013.09.19 13:56:59 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2013.09.19 13:57:00 org.jivesoftware.openfire.XMPPServer - Openfire 3.8.2 [Sep 19, 2013 1:57:00 PM]
+2013.09.19 13:57:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2013.09.19 13:57:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2013.09.19 13:57:00 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at http://127.0.0.1:9090
+2013.09.19 14:00:49 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2013.09.19 14:00:49 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2013.09.19 14:00:56 org.jivesoftware.database.SchemaManager - Missing database schema for openfire. Attempting to install...
+2013.09.19 14:00:56 org.jivesoftware.database.SchemaManager - Database update successful.
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Servers Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Components Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Users Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing AnonymousUsers Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing User Sessions
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Roster
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Multicast Service
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Message Size
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for VCard
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Privacy Lists
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Clearspace SSO Nonce
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Presence Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Last Activity Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components Sessions
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Connection Managers Sessions
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Incoming Server Sessions
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sessions by Hostname
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Validated Domains
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Client Session Info Cache
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities Users
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Directed Presences
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for PEPServiceManager
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Published Items
+2013.09.19 14:01:17 org.jivesoftware.openfire.pubsub.PubSubPersistenceManager - No nodes found in pubsub
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Features
+2013.09.19 14:01:17 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Items
+2013.09.19 14:01:17 org.jivesoftware.openfire.pubsub.PubSubModule - Publish-Subscribe domain: pubsub.cuongnm92-pc
+2013.09.19 14:01:17 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - Multi User Chat domain: conference.cuongnm92-pc
+2013.09.19 14:01:20 org.jivesoftware.openfire.spi.ConnectionManagerImpl - Started server (unencrypted) socket on port: 5269
+2013.09.19 14:01:21 org.jivesoftware.openfire.spi.ConnectionManagerImpl - Started plain (unencrypted) socket on port: 5222
+2013.09.19 14:01:21 org.jivesoftware.openfire.spi.ConnectionManagerImpl - Started SSL (encrypted) socket on port: 5223
+2013.09.19 14:01:34 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Locked Out Accounts
+2013.09.19 14:02:26 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group
+2013.09.19 14:02:26 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group Metadata Cache
+2013.09.19 14:05:22 org.jivesoftware.openfire.XMPPServer - Shutting down 49 modules ...
+2013.09.19 14:05:22 org.jivesoftware.openfire.pubsub.PubSubPersistenceManager - Flushing write cache to database
+2013.09.19 14:05:22 org.jivesoftware.openfire.XMPPServer - Shutting down plugins ...
+2013.09.19 14:05:22 org.jivesoftware.openfire.XMPPServer - Openfire stopped
+2013.09.19 14:05:22 org.jivesoftware.openfire.XMPPServer - Server halted
+2013.09.19 14:25:00 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Servers Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Components Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Users Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing AnonymousUsers Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing User Sessions
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Roster
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Multicast Service
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Message Size
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for VCard
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Privacy Lists
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Clearspace SSO Nonce
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Presence Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Last Activity Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components Sessions
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Connection Managers Sessions
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Incoming Server Sessions
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sessions by Hostname
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Validated Domains
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Client Session Info Cache
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities Users
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Directed Presences
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for PEPServiceManager
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Published Items
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Features
+2013.09.19 14:25:00 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Items
+2013.09.19 14:25:00 org.jivesoftware.openfire.pubsub.PubSubModule - Publish-Subscribe domain: pubsub.cuongnm92-pc
+2013.09.19 14:25:00 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - Multi User Chat domain: conference.cuongnm92-pc
+2013.09.19 14:25:00 org.jivesoftware.openfire.XMPPServer - Openfire 3.8.2 [Sep 19, 2013 2:25:00 PM]
+2013.09.19 14:25:01 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2013.09.19 14:25:01 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2013.09.19 14:25:01 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at:
+  http://cuongnm92-pc:9090
+  https://cuongnm92-pc:9091
+2013.09.19 14:25:01 org.jivesoftware.openfire.spi.ConnectionManagerImpl - Started server (unencrypted) socket on port: 5269
+2013.09.19 14:25:01 org.jivesoftware.openfire.spi.ConnectionManagerImpl - Started plain (unencrypted) socket on port: 5222
+2013.09.19 14:25:01 org.jivesoftware.openfire.spi.ConnectionManagerImpl - Started SSL (encrypted) socket on port: 5223
+2013.09.19 14:31:42 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Locked Out Accounts
+2013.09.19 14:31:42 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group
+2013.09.19 14:31:42 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group Metadata Cache
+2013.09.19 14:31:57 org.jivesoftware.openfire.nio.ConnectionHandler - ConnectionHandler reports IOException for session: (SOCKET, R: /127.0.0.1:50775, L: /127.0.0.1:5222, S: 0.0.0.0/0.0.0.0:5222)
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013.09.19 15:08:57 org.jivesoftware.openfire.XMPPServer - Shutting down 49 modules ...
+2013.09.19 15:08:57 org.jivesoftware.openfire.pubsub.PubSubPersistenceManager - Flushing write cache to database
+2013.09.19 15:08:57 org.jivesoftware.openfire.XMPPServer - Shutting down plugins ...
+2013.09.19 15:08:57 org.jivesoftware.openfire.XMPPServer - Openfire stopped
+2013.09.19 15:08:57 org.jivesoftware.openfire.XMPPServer - Server halted

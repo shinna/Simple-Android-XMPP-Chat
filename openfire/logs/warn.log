@@ -1,0 +1,4 @@
+2013.09.19 14:01:25 org.jivesoftware.admin.LoginLimitManager - Failed admin console login attempt by admin@example.com from 127.0.0.1
+2013.09.19 14:01:53 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2013.09.19 14:01:54 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2013.09.19 14:02:26 org.jivesoftware.database.SequenceManager - Autocreating jiveID row for type '25'
